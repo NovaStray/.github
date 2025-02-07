@@ -22,4 +22,4 @@ RealQuick is an all-in-one user experience that provides advanced scheduling, a 
 - Project Lead/Backend Engineer: [Andrew](https://github.com/AndrewRoe34)
 - IDP Server Engineer: [Robert](https://github.com/RobertForristall)
 - Frontend Engineer: [Cass](https://github.com/casacava)
-- UX Engineer: [Inderpal](https://github.com/Inderpal-Singh03)
+- Frontend Engineer/UX Engineer: [Inderpal](https://github.com/Inderpal-Singh03)

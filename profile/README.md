@@ -1,4 +1,4 @@
-# RealQuick - Web-based AI Scheduling Platform
+# RealQuick - Web-based Scheduling AI Platform
 
 RealQuick is an all-in-one user experience that provides an intellignet scheduling AI, a simple todo list, and insightful analytics all wrapped around with our Collective Dashboard Interface. With this design, you can access all your core needs while never leaving a single page!
 

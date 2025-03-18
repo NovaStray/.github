@@ -21,3 +21,5 @@ RealQuick is an all-in-one user experience that provides an intelligent scheduli
 
 ## Pre-Seed Funders
 - Robert Forristall
+
+![image](https://github.com/user-attachments/assets/d6581470-5b98-42c3-9db0-9844ec4708ff)

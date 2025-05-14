@@ -15,8 +15,5 @@ RealQuick is an intelligent scheduling AI that eliminates the hassle of planning
 - Project Lead/Backend Engineer: [Andrew](https://github.com/AndrewRoe34)
 - Full Stack Engineer: [Robert](https://github.com/RobertForristall)
 
-## Pre-Seed Funders
-- Robert Forristall
-
 ![image](https://github.com/user-attachments/assets/0135c557-9ddf-47bc-afc5-82a97e1931d8)
 
